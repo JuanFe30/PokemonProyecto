@@ -37,4 +37,5 @@
             </div>
         </div>
     </div>
+<script src="perfil.js"></script>
 <?php include "footer.php" ?>
